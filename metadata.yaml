@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5011
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
 description: 'Translation of: Das Goldmacherdorf'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18433#Kultalaluettavaksi-annettu
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
 identifiers:
