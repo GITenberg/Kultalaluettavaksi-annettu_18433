@@ -1,0 +1,40 @@
+_repo: Kultalaluettavaksi-annettu_18433
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Keckman, Carl Niclas
+    birthdate: 1793
+    deathdate: 1838
+    gutenberg_agent_id: '8022'
+    url: http://www.gutenberg.org/2009/agents/8022
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: 'Translation of: Das Goldmacherdorf'
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18433'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Germany -- Fiction'
+- !lcsh 'Germany -- Social life and customs -- Fiction'
+- !lcc 'PT'
+title: 'Kultala
+
+  Hyödyllinen ja huvittava historia, yhteiselle kansalle
+
+  luettavaksi annettu'
+url: http://www.gutenberg.org/ebooks/18433
